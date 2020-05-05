@@ -3,7 +3,6 @@ from sklearn.feature_extraction.text import CountVectorizer
 import re
 import warnings
 import pkg_resources
-import os
 
 warnings.filterwarnings("ignore")
 

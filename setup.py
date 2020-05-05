@@ -12,7 +12,7 @@ def read(fname):
 setup(name = 'ICHT_PatientExperience',
       description = 'A pre-trained text classification model',
       long_description = read("README.txt"),
-      version = '2.01',
+      version = '2.02',
       author = 'Jingxian You',
       author_email = 'jingxian.you@nhs.net',
       packages = find_packages(),
